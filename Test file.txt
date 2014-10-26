@@ -21,3 +21,9 @@ This work is being done in a Branch only at this point.
 >>>>.
 
 Pushing through Git (to Github) now
+
+
+>>>>
+Pushing to Github via Git Shell this time
+
+>>>>
